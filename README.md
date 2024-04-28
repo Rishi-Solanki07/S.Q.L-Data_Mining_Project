@@ -4,7 +4,7 @@
 This project involves extracting insights from a dataset containing pizza sales data. The dataset comprises 12 columns and 48600 rows, representing various aspects of pizza orders.
 
 ## Dataset
-The dataset used in this project contains information on pizza sales, including order ID, pizza name, quantity, total price, order date, pizza category, pizza size, etc. You can find the dataset [here](link_to_dataset](https://drive.google.com/file/d/1i0-91CTof7gLlKgzzCmZm1Soz1gPGI_o/view?usp=sharing).
+The dataset used in this project contains information on pizza sales, including order ID, pizza name, quantity, total price, order date, pizza category, pizza size, etc. You can find the dataset [here](https://drive.google.com/file/d/1i0-91CTof7gLlKgzzCmZm1Soz1gPGI_o/view?usp=sharing).
 
 ## Project Description
 The objective of this project is to extract key performance indicators (KPIs) and specific details from the pizza sales data. The project involves executing SQL queries in MySQL Workbench to derive insights and trends related to pizza sales.
